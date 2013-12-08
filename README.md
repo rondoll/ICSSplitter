@@ -1,2 +1,3 @@
-ICSSplitter
-===========
+ICS Splitter
+============
+By Henrik Neckfors
